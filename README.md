@@ -15,6 +15,7 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github & Ngrok:
 + Silahkan cek ip addres di https://dashboard.ngrok.com/status/tunnels  contoh ntuk login ip 4.tcp.ngrok.io:#*#*
 
 default username : runneradmin
+
 default password : Hoainam2001
 
 Semoga Bermanfaat
