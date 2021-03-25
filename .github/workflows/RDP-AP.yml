@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: Download Ngrok
-      run: Invoke-WebRequest https://waifuniverse.my.id/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+      run: Invoke-WebRequest https://waifuplay.net/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
     - name: Extract Ngrok Archive
       run: Expand-Archive ngrok.zip
     - name: Auth
