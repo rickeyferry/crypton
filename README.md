@@ -14,9 +14,9 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github & Ngrok:
 + Refresh Web dan masuk ke CI> build
 + Silahkan cek ip addres di https://dashboard.ngrok.com/status/tunnels  contoh ntuk login ip 4.tcp.ngrok.io:#*#*
 
-default username : Administrator
+default username : runneradmin
 
-default password : Abcxyz!@#123
+default password : Hoainam2001
 
 Semoga Bermanfaat
 "# FREE-RDP-WINDOWS-2019-WAIFUNIVERSE" 
