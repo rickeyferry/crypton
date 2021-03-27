@@ -16,7 +16,7 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github & Ngrok:
 
 default username : Administrator
 
-default password : Hoainam2001
+default password : Abcxyz!@#123
 
 Semoga Bermanfaat
 "# FREE-RDP-WINDOWS-2019-WAIFUNIVERSE" 
